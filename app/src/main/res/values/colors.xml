@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282828</color>
+    <color name="colorPrimaryDark">#141414</color>
+    <color name="colorAccent">#A53C3C</color>
+    <color name="columnOne">#202020</color>
+    <color name="columnTwo">#222222</color>
+</resources>

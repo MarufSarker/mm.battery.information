@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Battery Information</string>
+    <string name="tilde">~</string>
+    <string name="technology">Technology</string>
+    <string name="health">Health</string>
+    <string name="temperature">Temperature</string>
+    <string name="voltage">Voltage</string>
+    <string name="plugged_in">Plugged-In</string>
+    <string name="charge_counter">Charge Counter</string>
+    <string name="current_now">Current Now</string>
+    <string name="percentage">Percentage</string>
+    <string name="status">Status</string>
+    <string name="present">Present</string>
+</resources>
